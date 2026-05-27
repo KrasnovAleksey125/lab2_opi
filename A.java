@@ -4,3 +4,4 @@ public class A extends null {
 
     Object rr();
 }
+// изменение от one
