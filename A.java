@@ -9,3 +9,4 @@ public class A extends null {
 // изменение от user2
 //ewqewq
 //qweqweqweqwe
+// изменение от user2
