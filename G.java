@@ -4,3 +4,6 @@ public class G extends null {
 
     java.lang.Class qq();
 }
+// незавершенное
+// незавершенное изменение от user1
+// qweqwe
