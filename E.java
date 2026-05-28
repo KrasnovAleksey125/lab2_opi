@@ -4,3 +4,4 @@ public interface E {
 
     Object gg();
 }
+// Изменение от user2
