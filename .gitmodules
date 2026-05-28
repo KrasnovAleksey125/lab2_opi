@@ -1,0 +1,3 @@
+[submodule "ext_module"]
+	path = ext_module
+	url = https://github.com/KrasnovAleksey125/submodule.git
