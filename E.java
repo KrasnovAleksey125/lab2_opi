@@ -5,3 +5,4 @@ public interface E {
     Object gg();
 }
 // Изменение от user2
+// изменение от user1
