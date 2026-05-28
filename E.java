@@ -4,3 +4,4 @@ public class E extends null {
 
     Object gg();
 }
+// Изменение от user2
