@@ -6,3 +6,4 @@ public class A extends null {
 }
 // изменение от one
 // изменение от user2 для stash
+// изменение от user2
